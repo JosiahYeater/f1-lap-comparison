@@ -72,5 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Created by Josiah Yeater.
-
 Feel free to open issues or submit pull requests!
