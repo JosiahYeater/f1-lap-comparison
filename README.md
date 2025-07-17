@@ -50,6 +50,7 @@ Follow the on-screen prompts to:
 A plot will be displayed comparing the chosen telemetry data for the selected drivers.
 
 ![Screenshot of telemetry comparison plot output](example_screenshot.png)
+
 *Screenshot of telemetry comparison plot output*
 
 ---
