@@ -1,3 +1,4 @@
+import os
 import fastf1
 import matplotlib.pyplot as plt
 
@@ -9,6 +10,8 @@ def main():
     session type, drivers to compare, and telemetry data type. Then loads
     and visualizes the selected telemetry data.
     """
+
+    os.makedirs("cache", exist_ok=True)
     fastf1.Cache.enable_cache('cache')
     print("Welcome to the unofficial F1 Lap Comparison tool, powered by the fastf1 python library.")
 
