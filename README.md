@@ -5,6 +5,8 @@ Welcome to the unofficial **F1 Lap Comparison Tool**, powered by the [fastf1](ht
 
 This console-based tool allows you to compare telemetry data like speed, throttle, brake, and gear across different drivers in a selected Formula 1 Grand Prix session.
 
+Tested in Python 3.8.
+
 ---
 ## Features
 
